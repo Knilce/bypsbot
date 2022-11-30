@@ -28,3 +28,8 @@ start - Welcome Message
 help - List of All Supported Sites
 ```
 
+## Deploy
+
+<a href="https://heroku.com/deploy?template=https://github.com/nikhivishwa/all-in-1-bypasser">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
